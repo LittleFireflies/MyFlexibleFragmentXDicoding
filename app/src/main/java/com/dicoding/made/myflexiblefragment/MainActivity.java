@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Dev branch
         //Jp Branch
-
+        //xxx
         FragmentManager mFragmentManager = getSupportFragmentManager();
         FragmentTransaction mFragmentTransaction = mFragmentManager.beginTransaction();
         HomeFragment mHomeFragment = new HomeFragment();
